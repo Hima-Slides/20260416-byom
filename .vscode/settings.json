@@ -1,0 +1,3 @@
+{
+  "slidev.dev-command": "pnpm slidev ${args}",
+}

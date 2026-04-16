@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "antfu.slidev",
+    "DavidAnson.vscode-markdownlint",
+  ]
+}

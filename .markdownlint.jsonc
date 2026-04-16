@@ -1,0 +1,28 @@
+{
+  // Enable default rules
+  "default": true,
+  // MD001: Heading levels should only increment by one level at a time
+  // Disable this to allow slides with mixed heading levels
+  "MD001": false,
+  // MD003: Heading style
+  // Disable this to allow slides with different heading styles and frontmatter
+  "MD003": false,
+  // MD013: Line length
+  // Disable this to allow slides with long lines
+  "MD013": false,
+  // MD022: Headers should be surrounded by blank lines
+  // Disable this to fix frontmatter issues
+  "MD022": false,
+  // MD024: Multiple headers with the same content
+  // Disable this to allow slides with repeated headers
+  "MD024": false,
+  // MD025: Multiple top-level headers in the same document
+  // Disable this to allow slides with multiple top-level headers
+  "MD025": false,
+  // MD033: Inline HTML
+  // Disable this to allow HTML in Markdown slides
+  "MD033": false,
+  // MD041: First line in a file should be a top-level header
+  // Disable this to allow slides without a top-level header
+  "MD041": false
+}
