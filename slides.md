@@ -72,7 +72,7 @@ graph LR
 
 <div v-click="7">
 
-> [Tailscale](https://tailscale.com) simplifies remote access between machines.*
+[**Tailscale**](https://tailscale.com) simplifies remote access between machines.*
 
 <p style="font-size:0.7em;opacity:0.6;margin-top:0.25em">* Any network that lets the client reach the server's IP works — LAN, WireGuard, <code>ngrok</code>, port forwarding, etc.</p>
 
@@ -117,7 +117,7 @@ sudo systemctl daemon-reload && sudo systemctl restart ollama
 ollama pull qwen3-coder:30b
 ```
 
-> Smaller models might not work as it cannot use the tools properly.
+_Smaller models might not work as it cannot use the tools properly._
 
 </div>
 
@@ -369,6 +369,7 @@ cinder/2 is in `waiting` with `(container:cinder-api) service not ready`. This m
 | `generated-github-runner-run.log` | `JOB_FAILED: true`, `validation_level: not_reached` (line 27956) |
 | Join CLI logs (all 6 nodes) | All joins completed successfully (`ResultType.COMPLETED` on final steps) |
 </pre></div>
+
 </div>
 
 <div style="min-width:0;overflow:hidden">
